@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/winsoftl/public_html/
-    - /bin/cp -R ./build
+    - /bin/cp -R build home/winsoftl/public_html/
