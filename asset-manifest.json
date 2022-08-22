@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c47ed2cb.css",
+    "main.js": "/static/js/main.8517bf29.js",
+    "static/js/787.a454b5f1.chunk.js": "/static/js/787.a454b5f1.chunk.js",
+    "static/media/hero-loop.mp4": "/static/media/hero-loop.859f66d37b17e4df72b4.mp4",
+    "static/media/hero-image.gif": "/static/media/hero-image.1491b09ddaea3b35932b.gif",
+    "static/media/about-hero-image.png": "/static/media/about-hero-image.306a1597cdbfb05b5c89.png",
+    "static/media/geometry.png": "/static/media/geometry.869563e44e66ee046492.png",
+    "static/media/ambitions.png": "/static/media/ambitions.afa0647f5239ff0e0032.png",
+    "static/media/innovations.png": "/static/media/innovations.27bdae932be5270c0682.png",
+    "static/media/right-pic.png": "/static/media/right-pic.ef2c69df76e7dba9d020.png",
+    "static/media/acheivements.png": "/static/media/acheivements.dcc92a62ecae6ae0b47d.png",
+    "static/media/advertising.png": "/static/media/advertising.0bad7b5281b95eb843e7.png",
+    "static/media/explorations.png": "/static/media/explorations.c1bfe0d7c192b7cc7ec1.png",
+    "static/media/logo-and-text.svg": "/static/media/logo-and-text.ffbab9813b10ec3282acf680b5e0bb0b.svg",
+    "static/media/analytics.png": "/static/media/analytics.8d3a420865c97bba1c06.png",
+    "static/media/about-hero-mobile.png": "/static/media/about-hero-mobile.668548421448c7f422e0.png",
+    "static/media/winsoft-logo-blue.png": "/static/media/winsoft-logo-blue.21c2bf29f7cbad5fd11e.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/phone.svg": "/static/media/phone.2841881ae31b2f2ee68053efcd710237.svg",
+    "static/media/twitter.svg": "/static/media/twitter.05c35291522b56a245787fe9afe8eac0.svg",
+    "static/media/mail.svg": "/static/media/mail.0ee707da6d6ce93b15f2a43efc7bebde.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.31596bd239de6468e1280087ee4e9079.svg",
+    "static/media/twitter-w.svg": "/static/media/twitter-w.4901592583a721467c2ca248efb92829.svg",
+    "static/media/linkedin-w.svg": "/static/media/linkedin-w.ca3ee5ae6319de0e4585480f4bcb5c1b.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.5e5c2e37fe13085b3e18e461db9a70a9.svg",
+    "static/media/facebook-w.svg": "/static/media/facebook-w.9d7eaede43046a2efd2cc62c6d6e1867.svg",
+    "static/media/youtube-w.svg": "/static/media/youtube-w.d32d12fdc3bd0cd399882432662f62d5.svg",
+    "main.c47ed2cb.css.map": "/static/css/main.c47ed2cb.css.map",
+    "main.8517bf29.js.map": "/static/js/main.8517bf29.js.map",
+    "787.a454b5f1.chunk.js.map": "/static/js/787.a454b5f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c47ed2cb.css",
+    "static/js/main.8517bf29.js"
+  ]
+}
